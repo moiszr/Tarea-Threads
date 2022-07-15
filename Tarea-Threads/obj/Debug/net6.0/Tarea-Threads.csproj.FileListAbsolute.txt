@@ -1,0 +1,15 @@
+C:\Users\moise\Desktop\Tarea-Threads\Tarea-Threads\bin\Debug\net6.0\Tarea-Threads.exe
+C:\Users\moise\Desktop\Tarea-Threads\Tarea-Threads\bin\Debug\net6.0\Tarea-Threads.deps.json
+C:\Users\moise\Desktop\Tarea-Threads\Tarea-Threads\bin\Debug\net6.0\Tarea-Threads.runtimeconfig.json
+C:\Users\moise\Desktop\Tarea-Threads\Tarea-Threads\bin\Debug\net6.0\Tarea-Threads.dll
+C:\Users\moise\Desktop\Tarea-Threads\Tarea-Threads\bin\Debug\net6.0\Tarea-Threads.pdb
+C:\Users\moise\Desktop\Tarea-Threads\Tarea-Threads\obj\Debug\net6.0\Tarea-Threads.csproj.AssemblyReference.cache
+C:\Users\moise\Desktop\Tarea-Threads\Tarea-Threads\obj\Debug\net6.0\Tarea-Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\Desktop\Tarea-Threads\Tarea-Threads\obj\Debug\net6.0\Tarea-Threads.AssemblyInfoInputs.cache
+C:\Users\moise\Desktop\Tarea-Threads\Tarea-Threads\obj\Debug\net6.0\Tarea-Threads.AssemblyInfo.cs
+C:\Users\moise\Desktop\Tarea-Threads\Tarea-Threads\obj\Debug\net6.0\Tarea-Threads.csproj.CoreCompileInputs.cache
+C:\Users\moise\Desktop\Tarea-Threads\Tarea-Threads\obj\Debug\net6.0\Tarea-Threads.dll
+C:\Users\moise\Desktop\Tarea-Threads\Tarea-Threads\obj\Debug\net6.0\refint\Tarea-Threads.dll
+C:\Users\moise\Desktop\Tarea-Threads\Tarea-Threads\obj\Debug\net6.0\Tarea-Threads.pdb
+C:\Users\moise\Desktop\Tarea-Threads\Tarea-Threads\obj\Debug\net6.0\Tarea-Threads.genruntimeconfig.cache
+C:\Users\moise\Desktop\Tarea-Threads\Tarea-Threads\obj\Debug\net6.0\ref\Tarea-Threads.dll
